@@ -1,0 +1,19 @@
+{
+    "name": "POE.Systems.Grid.Placement",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:8493ac436d9f4b143b0f2fc457f3e145",
+        "GUID:2b2277e6ef464a8418a3c0c9d600867c",
+        "GUID:83f0dae0f5896b44db30f476d1b78d79"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
